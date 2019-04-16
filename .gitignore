@@ -1,3 +1,7 @@
 # IntelliJ IDEA
 .idea
 *.iml
+uiDesigner.xml
+misc.xml
+compiler.xml
+workspace.xml
